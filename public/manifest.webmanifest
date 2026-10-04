@@ -1,0 +1,10 @@
+{
+  "name": "Life Leveling",
+  "short_name": "Leveling",
+  "description": "The System issues your Daily Quest. Level up in real life.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060b1a",
+  "theme_color": "#060b1a",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
